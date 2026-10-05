@@ -20,7 +20,17 @@ Goated
 ShiftMatch
 
 ### System Goal
-ShiftMatch will automatically generate the full OCOB Peer Advisor shift schedule by matching submitted availability against shift needs and team-meeting overlap requirements, and will automatically identify and propose qualified coverage when a Peer Advisor cannot work an assigned shift — reducing shift-coverage resolution time from an estimated same-day/multi-hour manual process to under one hour, within one academic term of deployment.
+### System Goal
+
+ShiftMatch will automatically generate the OCOB Peer Advisor shift schedule each term by matching submitted availability against shift needs and team-meeting overlap requirements, and will automatically identify and contact qualified coverage when a Peer Advisor cannot work an assigned shift. The target is to reduce shift-coverage resolution time from an estimated same-day, multi-hour manual process to under one hour, within one academic term of deployment.
+
+**Boundaries**
+
+- **Scope:** ShiftMatch covers only OCOB Peer Advisor shift scheduling and shift coverage. It does not handle student appointment booking, payroll or timesheets, hiring, or scheduling for other campus programs.
+- **Human approval:** ShiftMatch does not publish a term schedule until the Peer Advisor lead approves it. The lead remains accountable for the final schedule and for every case the system escalates.
+- **Assignment limits:** ShiftMatch never assigns a Peer Advisor to a time they marked unavailable, beyond their maximum weekly hours, or to a shift they have not accepted. Coverage is only offered; an advisor must accept it.
+- **Escalation:** When required information is missing, no qualified replacement exists, no one accepts within the response window, or a tool fails, ShiftMatch stops and hands the case to the lead instead of guessing.
+- **Data:** ShiftMatch uses only the availability submissions, advisor roster, and schedule data needed for scheduling. It sends messages only to Peer Advisors and the lead, about their own shifts.
 
 ### Who Is Better Off When This Works?
 
