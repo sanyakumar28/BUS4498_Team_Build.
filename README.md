@@ -20,7 +20,6 @@ Goated
 ShiftMatch
 
 ### System Goal
-### System Goal
 
 ShiftMatch will automatically generate the OCOB Peer Advisor shift schedule each term by matching submitted availability against shift needs and team-meeting overlap requirements, and will automatically identify and contact qualified coverage when a Peer Advisor cannot work an assigned shift. The target is to reduce shift-coverage resolution time from an estimated same-day, multi-hour manual process to under one hour, within one academic term of deployment.
 
