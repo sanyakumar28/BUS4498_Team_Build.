@@ -1,13 +1,13 @@
 # Task Summary
 
-*BUS 4498 Team Build Milestone 1. Save this file at `our_team_agent/agent/task-summary.md` in `BUS4498_Team_Build`.*
-
-*Include one row for every workflow task, including human-review and exception-path tasks. Copy task IDs and names exactly from `workflow-of-tasks.md`. Keep only the three columns below. Automation levels and their reasons belong in the team worksheet.*
-
-*For each specification file address, replace both the visible filename and the link target. Use a relative link beginning with `task-specs/`, such as `[task-specs/check-completeness.md](task-specs/check-completeness.md)`. The address is relative to this task-summary file; do not add `our_team_agent/agent/` again.*
-
-*Add rows as needed. Start/end markers and routing-only gateways do not need rows. Remove these instructions and replace every placeholder before submitting. Click every link in GitHub Preview to verify the destination.*
-
 | Task ID | Task name | Specification file address |
 | --- | --- | --- |
-| [Exact task ID] | [Exact verb-object task name] | [task-specs/your-task-name.md](task-specs/your-task-name.md) |
+| T1 | Retrieve Availability Submissions | [task-specs/retrieve-availability-submissions.md](task-specs/retrieve-availability-submissions.md) |
+| T2 | Validate Availability Data | [task-specs/validate-availability-data.md](task-specs/validate-availability-data.md) |
+| T3 | Generate Draft Schedule | [task-specs/generate-draft-schedule.md](task-specs/generate-draft-schedule.md) |
+| T4 | Approve Draft Schedule | [task-specs/approve-draft-schedule.md](task-specs/approve-draft-schedule.md) |
+| T5 | Validate Coverage Request | [task-specs/validate-coverage-request.md](task-specs/validate-coverage-request.md) |
+| T6 | Identify Eligible Replacements | [task-specs/identify-eligible-replacements.md](task-specs/identify-eligible-replacements.md) |
+| T7 | Confirm Replacement Acceptance | [task-specs/confirm-replacement-acceptance.md](task-specs/confirm-replacement-acceptance.md) |
+| T8 | Publish Schedule Update | [task-specs/publish-schedule-update.md](task-specs/publish-schedule-update.md) |
+| T9 | Resolve Scheduling Exception | [task-specs/resolve-scheduling-exception.md](task-specs/resolve-scheduling-exception.md) |
