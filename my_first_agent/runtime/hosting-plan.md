@@ -7,8 +7,8 @@ Written in plain words with the BUS 4498 Agent Builder Kit. Our AI assistant tur
 - GitHub repository: https://github.com/sanyakumar28/BUS4498_Team_Build.
 - Our agent’s folder: `my_first_agent` (our plans are in `my_first_agent/runtime/`)
 - Supabase project: https://gvkksdwgsquelrxckmfx.supabase.co
-- Owner of the repository and the Supabase project: Jacob Young
-- Teammate: Sanya Kumar, a collaborator on GitHub and a Developer in the Supabase organization
+- Owner of the GitHub repository: Sanya Kumar. Jacob Young is a collaborator on it.
+- Owner of the Supabase project: Jacob Young. Sanya Kumar is a Developer in the Supabase organization.
 - We say “I’m working on it” and “pushed” in: iMessages. One of us works at a time.
 
 ## What our agent does
